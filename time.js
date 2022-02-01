@@ -1,7 +1,7 @@
-var dt = new Date();//current Date that gives us current Time also
+var dt = new Date();
 
-var startTime = '03:30:20';
-var endTime = '23:50:10';
+var startTime = '08:10:00';
+var endTime = '14:45:0';
 
 var s =  startTime.split(':');
 var dt1 = new Date(dt.getFullYear(), dt.getMonth(), dt.getDate(),
