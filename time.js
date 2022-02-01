@@ -14,4 +14,3 @@ var dt2 = new Date(dt.getFullYear(), dt.getMonth(),
 if( (dt >= dt1 && dt <= dt2) ?
 window.location.replace("https://bobzgames.github.io/m/time.html") : 
                                   'Current time is NOT between startTime and endTime');
-alert ('dt = ' + dt  + ',  dt1 = ' + dt1 + ', dt2 =' + dt2)
